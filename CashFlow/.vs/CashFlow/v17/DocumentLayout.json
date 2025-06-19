@@ -17,7 +17,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 73,
+          "DockedWidth": 55,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -35,7 +35,7 @@
           ]
         },
         {
-          "DockedWidth": 327,
+          "DockedWidth": 345,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -46,7 +46,7 @@
               "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
               "ToolTip": "C:\\projetos\\cashflow\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
               "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T21:53:21.977Z",
               "EditorCaption": ""
