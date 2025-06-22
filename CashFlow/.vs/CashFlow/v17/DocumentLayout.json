@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\projetos\\cashflow\\CashFlow\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABC7A631-4B9D-4506-9839-9655CF4353DD}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\projetos\\cashflow\\cashflow\\tests\\validators.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7A631-4B9D-4506-9839-9655CF4353DD}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E538B554-9491-491E-975F-A044D92C28E3}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\projetos\\cashflow\\cashflow\\src\\cashflow.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E538B554-9491-491E-975F-A044D92C28E3}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E538B554-9491-491E-975F-A044D92C28E3}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\projetos\\cashflow\\cashflow\\src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E538B554-9491-491E-975F-A044D92C28E3}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD95EB0C-0322-4A2B-A37E-96C613A75BF5}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\projetos\\cashflow\\cashflow\\src\\cashflow.exception\\resourceerrormessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{BD95EB0C-0322-4A2B-A37E-96C613A75BF5}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\resourceerrormessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9BF67C1-B9B5-421D-BC3E-56F92D831687}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\projetos\\cashflow\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\projetos\\cashflow\\CashFlow\\tests\\Validators.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "tests\\Validators.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\projetos\\cashflow\\CashFlow\\tests\\Validators.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "tests\\Validators.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:29:18.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projetos\\cashflow\\CashFlow\\src\\CashFlow.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Api\\Program.cs",
@@ -43,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CultureMiddleware.cs",
               "DocumentMoniker": "C:\\projetos\\cashflow\\CashFlow\\src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
@@ -53,17 +66,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T02:41:01.706Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResourceErrorMessages.resx",
-              "DocumentMoniker": "C:\\projetos\\cashflow\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "ToolTip": "C:\\projetos\\cashflow\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "RelativeToolTip": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-16T21:38:07.754Z"
             }
           ]
         },
