@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{ABC7A631-4B9D-4506-9839-9655CF4353DD}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC7A631-4B9D-4506-9839-9655CF4353DD}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\projetos\\cashflow\\cashflow\\tests\\validators.tests\\validators.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ABC7A631-4B9D-4506-9839-9655CF4353DD}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\validators.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E8597C9-E48E-4BB1-8FAE-542A0B602B66}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\projetos\\cashflow\\cashflow\\tests\\commontestutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8597C9-E48E-4BB1-8FAE-542A0B602B66}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7A631-4B9D-4506-9839-9655CF4353DD}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\projetos\\cashflow\\cashflow\\tests\\validators.tests\\validators.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABC7A631-4B9D-4506-9839-9655CF4353DD}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\validators.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9BF67C1-B9B5-421D-BC3E-56F92D831687}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\projetos\\cashflow\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,18 +29,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 297,
+          "DockedWidth": 216,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Validators.Tests",
               "DocumentMoniker": "C:\\projetos\\cashflow\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
               "RelativeDocumentMoniker": "tests\\Validators.Tests\\Validators.Tests.csproj",
               "ToolTip": "C:\\projetos\\cashflow\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
               "RelativeToolTip": "tests\\Validators.Tests\\Validators.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-23T21:07:15.164Z",
               "EditorCaption": ""
@@ -53,14 +53,14 @@
               "RelativeDocumentMoniker": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
               "ToolTip": "C:\\projetos\\cashflow\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs*",
               "RelativeToolTip": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T04:58:05.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RequestRegisterExpenseJsonBuilder.cs",
               "DocumentMoniker": "C:\\projetos\\cashflow\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
               "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
@@ -74,7 +74,7 @@
           ]
         },
         {
-          "DockedWidth": 103,
+          "DockedWidth": 184,
           "SelectedChildIndex": 0,
           "Children": [
             {
